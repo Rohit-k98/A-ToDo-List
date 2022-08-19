@@ -49,5 +49,4 @@ function remove(index) {
 
     document.getElementById(`wholeRow${index}`).outerHTML = '';
     delete listContainer[index];
-
 }
