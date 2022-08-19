@@ -39,11 +39,6 @@ function showOriginalList() {
     if (inputTEXT.value === '') {
         theToDoList.innerHTML = listContainer.join(``);
     }
-    else {
-
-    }
-
-
 }
 
 
